@@ -68,6 +68,7 @@
 
         private System.Windows.Forms.TextBox gameAddress;
         private System.Windows.Forms.Button button1;
+
     }
 }
 
